@@ -16,7 +16,7 @@ using CounterStrikeSharp.API.Modules.Commands;
 namespace LeaderosConnect;
 
 /// <summary>
-/// LeaderosConnect - Counter-Strike CounterStrikeSharp plugin for real-time server communication
+/// LeaderosConnect - CounterStrikeSharp plugin for real-time server communication
 /// via WebSocket (Pusher protocol). Handles command delivery, player queue management,
 /// and automatic reconnection.
 /// </summary>
@@ -361,7 +361,7 @@ public class LeaderosConnect : BasePlugin, IPluginConfig<LeaderosConfig>
 
     /// <summary>
     /// POSTs command IDs to the LeaderOS validation endpoint.
-    /// Runs on a background thread — does NOT touch Counter-Strike game objects directly.
+    /// Runs on a background thread — does NOT touch game objects directly.
     /// </summary>
     private async Task ValidateAndExecuteCommandsAsync(string[] commandIds)
     {
