@@ -1,6 +1,6 @@
-# LeaderosConnect Plugin for Counter-Strike
+# LeaderosConnect Plugin for CS2
 
-This plugin allows you to connect your Counter-Strike server to LeaderOS, enabling you to send commands to the server through the LeaderOS platform.
+This plugin allows you to connect your CS2 server to LeaderOS, enabling you to send commands to the server through the LeaderOS platform.
 
 ## Requirements
 

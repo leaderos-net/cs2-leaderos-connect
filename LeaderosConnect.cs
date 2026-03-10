@@ -25,7 +25,7 @@ public class LeaderosConnect : BasePlugin, IPluginConfig<LeaderosConfig>
     public override string ModuleName    => "LeaderosConnect";
     public override string ModuleVersion => "1.0.0";
     public override string ModuleAuthor  => "LeaderOS";
-    public override string ModuleDescription => "Connect your Counter-Strike server to LeaderOS, enabling you to execute commands on your server directly from the website.";
+    public override string ModuleDescription => "Connect your CS2 server to LeaderOS, enabling you to execute commands on your server directly from the website.";
 
     #region Constants
 
