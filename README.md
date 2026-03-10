@@ -12,7 +12,7 @@ This plugin requires [CounterStrikeSharp](https://github.com/roflmuffin/CounterS
 
 Download the latest release as a ZIP file from the link below and extract it:
 
-[https://www.leaderos.net/plugin/cs](https://www.leaderos.net/plugin/cs)
+[https://www.leaderos.net/plugin/cs2](https://www.leaderos.net/plugin/cs2)
 
 ### 2. Upload the plugin
 
@@ -88,7 +88,7 @@ All commands require `@css/root` admin permission when run by an in-game player.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/leaderos-net/cs-leaderos-connect.git
+   git clone https://github.com/leaderos-net/cs2-leaderos-connect.git
    cd cs-leaderos-connect
    ```
 
